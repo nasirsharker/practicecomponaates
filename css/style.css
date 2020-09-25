@@ -1,0 +1,18 @@
+.box{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+.box a{
+	background-color: light;
+	color: white;
+	text-decoration: none;
+}
+
+/*<section class="">
+    <div class="container">
+        <div class="row">
+          
+        </div>
+    </div>
+</section>*/
